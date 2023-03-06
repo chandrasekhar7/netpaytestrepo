@@ -24,5 +24,6 @@ public class Program
         else
             Console.Write("Its very hot.\n");
 
+
     }
 }
