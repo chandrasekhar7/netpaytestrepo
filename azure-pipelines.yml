@@ -17,6 +17,8 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
-- task: DotNetCoreCLI@2
+- task: PublishPipelineArtifact@1
   inputs:
-    command: 'build'
+    targetPath: '$(Pipeline.Workspace)' # string. Alias: path. Required. File or directory path. Default: $(Pipeline.Workspace).
+    #artifact: # string. Alias: artifactName. Artifact name. 
+    publishLocation: 'pipeline'
