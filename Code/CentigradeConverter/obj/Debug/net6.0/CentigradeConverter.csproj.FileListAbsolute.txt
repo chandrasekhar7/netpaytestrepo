@@ -1,0 +1,15 @@
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\bin\Debug\net6.0\CentigradeConverter.exe
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\bin\Debug\net6.0\CentigradeConverter.deps.json
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\bin\Debug\net6.0\CentigradeConverter.runtimeconfig.json
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\bin\Debug\net6.0\CentigradeConverter.dll
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\bin\Debug\net6.0\CentigradeConverter.pdb
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\CentigradeConverter.csproj.AssemblyReference.cache
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\CentigradeConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\CentigradeConverter.AssemblyInfoInputs.cache
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\CentigradeConverter.AssemblyInfo.cs
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\CentigradeConverter.csproj.CoreCompileInputs.cache
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\CentigradeConverter.dll
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\refint\CentigradeConverter.dll
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\CentigradeConverter.pdb
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\CentigradeConverter.genruntimeconfig.cache
+C:\Users\srinivasan.p\source\repos\CentigradeConverter\CentigradeConverter\obj\Debug\net6.0\ref\CentigradeConverter.dll
